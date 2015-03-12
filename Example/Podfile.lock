@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi (2.3.1)
+  - OCProjector (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - OCProjector (from `../`)
+
+EXTERNAL SOURCES:
+  OCProjector:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
+  OCProjector: ae2c69773302e5a845210d853bfc6183aef2f2ad
+
+COCOAPODS: 0.35.0
